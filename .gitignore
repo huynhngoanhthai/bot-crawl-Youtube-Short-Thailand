@@ -4,4 +4,4 @@ test-bot-telegram.js
 test.js
 .env
 yarn.lock
-data/*
+data/*.json
